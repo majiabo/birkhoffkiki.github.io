@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 马嘉波(Jiabo Ma)
 
-You can use the [editor on GitHub](https://github.com/birkhoffkiki/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### contact Info
+Post：Room E403, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology  
+Email: majiabo@hust.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+2015.9-2019.7:  Huazhong University of Science and Technology, Dept. of Biomedical Engineering, Undergraduate
+2019.9-2022.7:  Huazhong University of Science and Technology, Dept. of Biomedical Engineering, M.Phil Student
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/birkhoffkiki/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Research Publications
+- J. Ma et al., "PathSRGAN: Multi-Supervised Super-Resolution for Cytopathological Images Using Generative Adversarial Network," in IEEE Transactions on Medical Imaging, vol. 39, no. 9, pp. 2920-2930, Sept. 2020, doi: 10.1109/TMI.2020.2980839. 
+- Liu, Y., Ma, J., Li, X., Liu, X., Rao, G., Tian, J., ... & Hu, J. (2020). Discrimination of cervical cancer cells via cognition-based features. Journal of Innovative Optical Health Sciences, 13(01), 2050001. 
