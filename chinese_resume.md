@@ -1,5 +1,5 @@
 ---
-title: 简历--马嘉波
+title: 中文简历
 layout: template
 filename: chinese_resume
 --- 

@@ -1,5 +1,5 @@
 ---
-title: English Resume of Jiabo Ma
+title: English Resume
 layout: template
 filename: index
 --- 
