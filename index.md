@@ -4,12 +4,7 @@ layout: template
 filename: index
 --- 
 ## Self description
-本人对于计算机视觉应用在医学图像分析中具有丰富的实践经验，能够熟练使用python，C++等工具开发以及部署算法。在硕士期间，参与临床水平的宫颈癌辅助诊断系统的开发，积累了丰富的工程经验。同时，能够独立自主的开展学术研究，并发表了医学图像领域内的TOP期刊IEEE TMI一篇，在投IEEE TMI一篇。
-
-### Contact Info
-Post：Room E403, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science & Technology  
-Email: majiabo@hust.edu.cn  
-
+I have rich practical experience in the application of computer vision in medical image analysis, and can use Python, C++ and other tools to develop and deploy algorithms. During my master's degree, I participated in the development of computer-aided cervical cancer diagnosis system and accumulated rich engineering experience. In addition, I am able to independently carry out academic research and I published a top journal IEEE TMI in the field of medical imaging.
 ### Education
 2015.9-2019.7: Undergraduate, Biomedical Engeering, Huazhong University of Science & Technology  
 2019.9-present: M.phil, Biomedical Engeering, Huazhong University of Science & Technology  
@@ -27,3 +22,8 @@ Email: majiabo@hust.edu.cn
 - 2020, Huawei scholarship
 - 2020, National scholarship for graduate students
 - 2020, Merit graduate Student
+
+
+### Contact Info
+Post：Room E403, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science & Technology  
+Email: majiabo@hust.edu.cn  
