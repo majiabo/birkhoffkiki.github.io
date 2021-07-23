@@ -10,8 +10,8 @@ I have rich practical experience in the application of computer vision in medica
 2019.9-present: M.phil, Biomedical Engeering, Huazhong University of Science & Technology  
 
 ### Research Publications
-- J. Ma et al., "PathSRGAN: Multi-Supervised Super-Resolution for Cytopathological Images Using Generative Adversarial Network," in IEEE Transactions on Medical Imaging, vol. 39, no. 9, pp. 2920-2930, Sept. 2020, doi: 10.1109/TMI.2020.2980839. 
-- Liu, Y., Ma, J., Li, X., Liu, X., Rao, G., Tian, J., ... & Hu, J. (2020). Discrimination of cervical cancer cells via cognition-based features. Journal of Innovative Optical Health Sciences, 13(01), 2050001. 
+- **Ma, J.**, Yu, J., Liu, S., Chen, L., Li, X., Feng, J., ... & Cheng, S. (2020). PathSRGAN: Multi-supervised super-resolution for cytopathological images using generative adversarial network. IEEE transactions on medical imaging, 39(9), 2920-2930. 
+- Liu, Y., **Ma, J.**, Li, X., Liu, X., Rao, G., Tian, J., ... & Hu, J. (2020). Discrimination of cervical cancer cells via cognition-based features. Journal of Innovative Optical Health Sciences, 13(01), 2050001. 
 
 ### Research Interests
 - Image super resolution
