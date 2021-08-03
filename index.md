@@ -12,7 +12,7 @@ I have rich practical experience in the application of computer vision in medica
 ### Research Publications
 - **Ma, J.**, Yu, J., Liu, S., Chen, L., Li, X., Feng, J., ... & Cheng, S. (2020). PathSRGAN: Multi-supervised super-resolution for cytopathological images using generative adversarial network. IEEE transactions on medical imaging, 39(9), 2920-2930. 
 - Liu, Y., **Ma, J.**, Li, X., Liu, X., Rao, G., Tian, J., ... & Hu, J. (2020). Discrimination of cervical cancer cells via cognition-based features. Journal of Innovative Optical Health Sciences, 13(01), 2050001. 
-- Shenghua Cheng, Sibo Liu, Jingya Yu, Gong Rao, Yuwei Xiao, Wei Han, Wenjie Zhu, Xiaohua Lv, Ning Li, Jing Cai, Zehua Wang, Xi Feng, Fei Yang, Xiebo Geng, Jiabo Ma, Xu Li, Ziquan Wei, Xueying Zhang, Shaoqun Zeng, Li Chen, Junbo Hu, and Xiuli Liu. Robust Whole Slide Image Analysis for Cervical Cancer Screening Using Deep Learning. Nature communications 2021 (accepted)
+- Shenghua Cheng, Sibo Liu, Jingya Yu, Gong Rao, Yuwei Xiao, Wei Han, Wenjie Zhu, Xiaohua Lv, Ning Li, Jing Cai, Zehua Wang, Xi Feng, Fei Yang, Xiebo Geng, **Jiabo Ma**, Xu Li, Ziquan Wei, Xueying Zhang, Shaoqun Zeng, Li Chen, Junbo Hu, and Xiuli Liu. Robust Whole Slide Image Analysis for Cervical Cancer Screening Using Deep Learning. Nature communications 2021 (accepted)
 ### Research Interests
 - Image super resolution
 - Image recognition
