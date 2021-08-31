@@ -6,8 +6,8 @@ filename: index
 ## Self description
 I have rich practical experience in the application of computer vision in medical image analysis, and can use Python, C++ and other tools to develop and deploy algorithms. During my master's degree, I participated in the development of computer-aided cervical cancer diagnosis system and accumulated rich engineering experience. In addition, I am able to independently carry out academic research and I published a top journal IEEE TMI in the field of medical imaging.
 ### Education
-2015.9-2019.7: Undergraduate, Biomedical Engeering, Huazhong University of Science & Technology  
-2019.9-present: M.phil, Biomedical Engeering, Huazhong University of Science & Technology  
+2015.9-2019.7: Undergraduate, Biomedical Engineering, Huazhong University of Science & Technology  
+2019.9-present: M.phil, Biomedical Engineering, Huazhong University of Science & Technology  
 
 ### Research Publications
 - **Ma, J.**, Yu, J., Liu, S., Chen, L., Li, X., Feng, J., ... & Cheng, S. (2020). PathSRGAN: Multi-supervised super-resolution for cytopathological images using generative adversarial network. IEEE transactions on medical imaging, 39(9), 2920-2930. 
